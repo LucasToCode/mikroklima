@@ -4,7 +4,7 @@ Ein paar Hinweise zu den Daten:
 
 Die Messungen wurde alle Viertelstunden (XX:00, XX:15, XX:30, XX:45) der mitteleuropäischen Sommerzeit (CEST bzw. MESZ) erhoben.
 Die Logs als CSV-Datei sind einzeln in diesem Repository abgelegt, alternativ können auch alle Logs parallel über die [Logs.zip-Datei](https://github.com/LucasToCode/mikroklima/blob/main/Logs.zip) heruntergeladen werden.
-Sie enthalten
+Sie enthalten die Attributfelder
 <ul>
   <li>#</li>
   <ul>
